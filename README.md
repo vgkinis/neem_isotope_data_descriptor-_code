@@ -1,1 +1,1 @@
-# neem_isotope_data_descriptor-_code
+# neem_isotope_data_descriptor_code
